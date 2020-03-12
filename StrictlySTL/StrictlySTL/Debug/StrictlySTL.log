@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\S4\source\repos\StrictlySTL\StrictlySTL\main.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\S4\source\repos\StrictlySTL\StrictlySTL\main.cpp(288,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\S4\source\repos\StrictlySTL\StrictlySTL\main.cpp(289,16): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\S4\source\repos\StrictlySTL\StrictlySTL\main.cpp(290,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\S4\source\repos\StrictlySTL\StrictlySTL\main.cpp(293,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\S4\source\repos\StrictlySTL\StrictlySTL\main.cpp(295,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+  StrictlySTL.vcxproj -> C:\Users\S4\source\repos\StrictlySTL\Debug\StrictlySTL.exe
